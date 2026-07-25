@@ -1,6 +1,8 @@
 # Hi, I'm Maciej 👋
 
-IT Support Engineer with a passion for Linux, Infrastructure and Self-Hosted solutions.
+IT Support Engineer with 3+ years of experience supporting Windows, macOS and Linux environments.
+
+Passionate about Linux, self-hosted infrastructure and building practical tools powered by AI.
 
 Currently building my own AI-powered project called HireMate while continuously expanding my Proxmox-based homelab.
 
