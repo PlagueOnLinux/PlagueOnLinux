@@ -32,7 +32,7 @@ Proxmox, Docker, monitoring, networking and self-hosted services.
 
 ---
 
-## 🌐 Links
+## 🌐 Find me
 
 🌍 **Portfolio**  
 [maciejbledowski.pl](https://maciejbledowski.pl)
