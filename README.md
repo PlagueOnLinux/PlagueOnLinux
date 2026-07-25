@@ -32,10 +32,13 @@ Proxmox, Docker, monitoring, networking and self-hosted services.
 
 ---
 
-## Links
+## 🌐 Links
 
-🌐 Portfolio
+🌍 **Portfolio**  
+[maciejbledowski.pl](https://maciejbledowski.pl)
 
-💼 LinkedIn
+💼 **LinkedIn**  
+[linkedin.com/in/maciejbledowski](https://www.linkedin.com/in/maciejbledowski/)
 
-📫 Contact
+📫 **Email**  
+[bledowskimaciej@gmail.com](mailto:bledowskimaciej@gmail.com)
