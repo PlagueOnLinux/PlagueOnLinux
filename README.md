@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Maciej 👋
 
-<!--
-**PlagueOnLinux/PlagueOnLinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Engineer with a passion for Linux, Infrastructure and Self-Hosted solutions.
 
-Here are some ideas to get you started:
+Currently building my own AI-powered project called HireMate while continuously expanding my Proxmox-based homelab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Projects
+
+🚀 HireMate
+AI-powered assistant for job searching and application management.
+
+🖥️ HomeLab
+Proxmox, Docker, monitoring, networking and self-hosted services.
+
+---
+
+## Technologies
+
+- Linux
+- Docker
+- Proxmox
+- FastAPI
+- PostgreSQL
+- Python
+- Windows
+- Intune
+- Jamf
+- Active Directory
+- Okta
+
+---
+
+## Links
+
+🌐 Portfolio
+
+💼 LinkedIn
+
+📫 Contact
