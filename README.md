@@ -18,15 +18,19 @@ Proxmox, Docker, monitoring, networking and self-hosted services.
 
 ---
 
-## Technologies
+### Technologies
 
-- Linux
-- Docker
+**Infrastructure**
 - Proxmox
+- Docker
+- Linux
+
+**Development**
+- Python
 - FastAPI
 - PostgreSQL
-- Python
-- Windows
+
+**Enterprise**
 - Intune
 - Jamf
 - Active Directory
